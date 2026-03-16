@@ -1,4 +1,4 @@
-# 🏀 NBA Shot Prediction - Kobe Bryant Shot Success Classifier
+  # 🏀 NBA Shot Prediction - Kobe Bryant Shot Success Classifier
 
 An interactive Machine Learning web app that predicts whether Kobe Bryant's shot will be **Made** or **Missed**, using actual NBA shot data.
 
@@ -100,9 +100,9 @@ nba-shot-prediction/
 ### 👨‍💻 Author  
 **Suyog Manke**  
 💼 Aspiring Data Scientist  
-📫 Email: suyogmanke4@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/suyogmanke/)  
-🔗 [GitHub](https://github.com/SuyogDeepMind?tab=repositories)  
+📫 Email: sahilshaikh84641@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/shaikh-sahil-ali-742851323/)  
+🔗 [GitHub](https://github.com/shaikhsahilali/End-to-End-NBA-Shot-Prediction/)  
 
 ---
 
