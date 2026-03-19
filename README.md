@@ -95,10 +95,10 @@ nba-shot-prediction/
 
 🔗 Live App : https://nba-shot-prediction.streamlit.app
 
-📂 GitHub: [nba-shot-prediction](https://github.com/SuyogDeepMind/Nba-Shot-Prediction)
+📂 GitHub: [nba-shot-prediction](https://github.com/shaikhsahilali/End-to-End-NBA-Shot-Prediction)
 
 ### 👨‍💻 Author  
-**Suyog Manke**  
+**Shaikh Sahil Ali**  
 💼 Aspiring Data Scientist  
 📫 Email: sahilshaikh84641@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shaikh-sahil-ali-742851323/)  
